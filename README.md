@@ -15,6 +15,7 @@ mensajes en general o como respuesta a otro mensaje, generando hilos.
 - **Laura Arranz** => [arranzizquierdo](https://github.com/arranzizquierdo)
 - **Laura Santiago** => [laurasanra](https://github.com/laurasanra)
 - **Raquel Dacosta** => [rdfornieles](https://github.com/rdfornieles)
+- **Paloma Ania** => [palomaviolin🎻](https://github.com/palomaviolin)
 
 
 ## ESTRUCTURA
